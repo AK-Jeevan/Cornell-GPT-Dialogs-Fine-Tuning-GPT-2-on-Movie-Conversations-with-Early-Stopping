@@ -1,0 +1,2 @@
+# Cornell-GPT-Dialogs-Fine-Tuning-GPT-2-on-Movie-Conversations-with-Early-Stopping
+A hands‑on project demonstrating how to fine‑tune GPT‑2 on the Cornell Movie Dialogs dataset using Hugging Face Transformers. Includes tokenization, training with Trainer, and integration of EarlyStoppingCallback to prevent overfitting. Perfect for experimenting with conversational AI and building lightweight chatbots.
